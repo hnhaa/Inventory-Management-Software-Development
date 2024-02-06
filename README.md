@@ -30,6 +30,15 @@ Below is the interface of the inventory management system.
 ### 2. Functions
 The interface offers 4 main CRUD functions: Create (Add), Update, Read (Search) and Delete.
 ### SEARCH function
-<img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/search.png" width="300" alt="alt text"> <img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/action.png" width="300" alt="alt text"> <img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/result.png" width="300" alt="alt text"> 
+<img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/search.png" width="300" alt="alt text">
+
+ <img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/action.png" width="300" alt="alt text">
+
+  <img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/result.png" width="500" alt="alt text"> 
+
 ### ADD function
-<img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/add.png" width="300" alt="alt text"> <img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/action2.png" width="300" alt="alt text"> <img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/result2.png" width="300" alt="alt text"> 
+<img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/add.png" width="300" alt="alt text"> 
+
+<img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/action2.png" width="300" alt="alt text"> 
+
+<img src="https://github.com/hnhaa/Inventory-Management-Software-Development/blob/main/Image/result2.png" width="500" alt="alt text"> 
